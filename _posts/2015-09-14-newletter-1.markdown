@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "DomReactor Newsletter #1"
+date:   2015-09-14 20:37:00
+categories: Newsletter
+author: Shubham Bansal
+---
+
+Happy Monday!! Hope you all had an amazing weekend.
+
+Here is a quick update about some of the improvements we made to DomReactor this past week. Also, here are some interesting articles to get your week started. I hope you enjoy them as much as we did.  
+
+
+####**What we are reading this week**
+
+**[GitHub: Scaling on Ruby, with a nomadic tech team](https://medium.com/s-c-a-l-e/github-scaling-on-ruby-with-a-nomadic-tech-team-4db562b96dcd)** <span class="post-meta">(7 min read)</span>  
+Github is actually a really pragmatic set of hackers that just hack on Ruby, hack on C and spend their time working on more interesting things using a more stable stack, rather than chasing after the latest and shiny tech.
+
+**[From Products to Platform](https://stratechery.com/2015/from-products-to-platforms/)** <span class="post-meta">(8 min read)</span>  
+Apple’s declaration that “The Future of TV is Apps” is a very compelling one, but the degree to which that vision is realized is inextricably tied to the prospects developers have for making money.
+
+**[Don't embrace failure, embrace discomfort instead](https://www.groovehq.com/blog/dont-embrace-failure-embrace-discomfort)** <span class="post-meta">(5 min read)</span>  
+Instead of getting okay with failure, we should all work on getting okay with discomfort.
+Because once we’re okay with discomfort, we’re okay with — for most of us, the single hardest part of starting a business.
+
+**[How we support 1650 customers with one just rep](http://blog.statuspage.io/2-300-000-to-one-or-supporting-1650-customers-with-just-one-rep)** <span class="post-meta">(5 min read)</span>  
+Being able to support this many customers with just a single full-time support rep is the result of many small decisions. It's the cumulative affect of tweaking copy, highlighting a subtle requirement, and trimming the interface down to the essential parts.
+
+**[Do the simple things first: the engineering behind Instagram](http://www.fastcompany.com/3047642/tech-forecast/do-the-simple-thing-first-the-engineering-behind-instagram)** <span class="post-meta">(8 min read)</span>  
+"Doing the simple thing first started as a survival tactic, and became a mantra. Today, that phrase is burned into brains of all my engineers, which is awesome." - Mike Krieger (CTO, Instagram)
+
+**[Speed as a habit](http://firstround.com/review/speed-as-a-habit/)** <span class="post-meta">(10 min read)</span>  
+When you think about it, all business activity really comes down to two simple things: Making decisions and executing on decisions. Your success depends on your ability to develop speed as a habit in both.  
+
+
+####**What we shipped this week**  
+
+**<u>Performance fixes to the report page (Bug Fix)</u>**  
+We just made some improvements to the report page. We are now able to load each report page 3 times faster.
+
+**<u>Disable Chrome 43 on Linux (Bug Fix)</u>**  
+There is an issue that we are investigating currently with Google Chrome version 43 on the Linux operating system. There are high number of false positives being reported during the DOM parsing and we have not been able to get to the root cause yet. For the time being we have disabled running reactions on that particular version of Chrome. For more inquiries feel free to reach out to support@domreactor.com
+
+**<u>Improvement to our analysis algorithm (Improvement)</u>**  
+We have further improved our analysis algorithm to narrow down the false positives. It's a small win but we will keep improving our analysis strategy.
+
+**<u>Adding Pagination on the dashboard (Improvement)</u>**  
+We have added pagination to only display 20 reactions on the dashboard page. We hope this would be a better experience for our users.
+
+Happy Testing,  
+Your friends at DomReactor
+
+Did you know you can [get started with DomReactor for free](https://domreactor.com/pricing).
+

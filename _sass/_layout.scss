@@ -191,8 +191,16 @@
 /**
  * Posts
  */
+.post {
+  border-bottom: 2px solid #DDD;
+  margin-bottom: 20px;
+}
+
 .post-header {
     margin-bottom: $spacing-unit;
+    h2 {
+      margin-bottom: $post-header-spacing;
+    }
 }
 
 .post-title {
@@ -207,7 +215,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
-
+    a {text-decoration: underline;}
     h2 {
         font-size: 32px;
 
@@ -226,7 +234,7 @@
 
     h4 {
         font-size: 20px;
-
+        margin-bottom: 20px;
         @include media-query($on-laptop) {
             font-size: 18px;
         }

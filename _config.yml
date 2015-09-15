@@ -13,10 +13,9 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 nav_links:
+  - title: 'HOME'
+    url: 'https://domreactor.com/'
   - title: 'FEATURES'
-    url: 'https://domreactor.com/features'
-  - title: 'FAQ'
-    url: 'https://domreactor.com/faq'
-  - title: 'SUPPORT'
-    url: 'https://domreactor.desk.com'
-
+    url: 'https://domreactor.com/#features'
+  - title: 'PRICING'
+    url: 'https://domreactor.com/pricing'
