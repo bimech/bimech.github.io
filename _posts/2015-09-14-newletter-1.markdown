@@ -8,7 +8,7 @@ author: Shubham Bansal
 
 Happy Monday!! Hope you all had an amazing weekend.
 
-Here is a quick update about some of the improvements we made to DomReactor this past week. Also, here are some interesting articles to get your week started. I hope you enjoy them as much as we did.  
+Here is a quick update about some of the improvements we made to [DomReactor](https://domreactor.com) this past week. Also, here are some interesting articles to get your week started. I hope you enjoy them as much as we did.  
 
 
 ####**What we are reading this week**
