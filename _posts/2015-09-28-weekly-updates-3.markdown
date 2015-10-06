@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly Updates #3"
+title:  "Weekly Update #3"
 date:   2015-09-28 05:27:00
 categories: Newsletter
 author: Shubham Bansal
