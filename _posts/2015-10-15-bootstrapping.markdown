@@ -34,19 +34,19 @@ Early on, this notion was left unchallenged. We eventually brought on a third me
 
 I met very few people in the same boat as us - *older and eschewing investment*. I thought, these people had taken the hard road. The stories of humiliating pitches, watching out bad investors, handing over half your company, the constant fundraising, the lawyers. So many lawyers. Why jump through all those hoops when you don’t have to?  There were not many bootstrappers to talk about the unique perils of bootstrapping.
 
-Shortly thereafter it began to happen. It wasn’t as easy as we had thought. This was actually a pretty tough problem to solve. No wonder only a few companies had tried tackling it.
+> Shortly thereafter it began to happen. It wasn’t as easy as we had thought. This was actually a pretty tough problem to solve. No wonder only a few companies had tried tackling it.
 
 We went through a lot of code to create a prototype that was wasn’t all that useful in a production environment. Our app kept falling over like a drunk toddler with inner ear balance disorder.
 
 We talked to potential users. We pivoted. Then pivoted again.
 
-While having that day job afforded a financial sense of security, costs mounted in other ways. Time. Focus. Energy.
+> While having that day job afforded a financial sense of security, costs mounted in other ways. Time. Focus. Energy.
 
 If your day job is your startup you can put in those 8-12 hour days, go home and relax, unwind, or focus on other things (though I am sure many opt to not or feel they cannot). But when you’re bootstrapped, it doesn’t matter that you just finished a 70 hour work week, that you’re exhausted, or that you’d really rather have half a pizza, 3 beers and watch battle bots. You need to get to work.
 
 I wasn’t prepared for the mental demand. Typically you can use your nights and weekends, a few of them at least, to refocus and reenergize. We weren’t really afforded that luxury. When you don’t have this downtime, your work, both day and night, suffers.
 
-As much as time was an issue, the biggest one was pretty constant. *It was life.*
+> As much as time was an issue, the biggest one was pretty constant. **It was life.**
 
 And when you’re in your mid-30s you tend to have a lot of it. We had wives, kids, mortgages, car loans, dependent bartenders. At first it was easy. We were full of confidence, energy and enthusiasm. Friends, significant others and family were behind us. Giving us time and space and we gave ourselves the same.
 
