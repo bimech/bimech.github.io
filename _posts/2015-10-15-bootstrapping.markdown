@@ -30,9 +30,9 @@ No risk of losing your day job.
 
 No endless pitching business plans and ideas and groveling for cash and divvying up your shares and dignity.
 
-Early on, this notion was left unchallenged. We eventually brought on a third member, then a fourth.  We worked when we could. I went to tons of events and panels and meetups for startups and entrepreneurs and techies. By far, the majority of the companies presenting and talking were companies that had pitched their ideas fairly early on and had gotten angel or seed capital. They were for the most part much younger than the 30 somethings we were.
+Early on, this notion was left unchallenged. We eventually brought on a third member, then a fourth.  We worked when we could. I went to tons of events and panels and meetups for startups and entrepreneurs and techies. By far, the majority of the companies presenting and talking were companies that had pitched their ideas fairly early on and had gotten angel or seed capital. They were for the most part much younger than the 30-somethings we were.
 
-I met very few people in the same boat as us - *older and eschewing investment*. I thought, these people had taken the hard road. The stories of humiliating pitches, watching out bad investors, handing over half your company, the constant fundraising, the lawyers. So many lawyers. Why jump through all those hoops when you don’t have to?  There were not many bootstrappers to talk about the unique perils of bootstrapping.
+I met very few people in the same boat as us - *older and eschewing investment**. I thought, these people had taken the hard road. The stories of humiliating pitches, watching out for bad investors, handing over half your company, the constant fundraising, the lawyers. So many lawyers. Why jump through all those hoops when you don’t have to?  There were not many bootstrappers to talk about the unique perils of bootstrapping.
 
 > Shortly thereafter it began to happen. It wasn’t as easy as we had thought. This was actually a pretty tough problem to solve. No wonder only a few companies had tried tackling it.
 
