@@ -11,7 +11,7 @@ Happy Monday!! Hope you all had an amazing weekend.
 Here is a quick update about some of the improvements we made to [DomReactor](https://domreactor.com) this past week. Also, here are some interesting articles to get your week started. I hope you enjoy them as much as we did.  
 
 
-####**What we are reading this week**
+#### **What we are reading this week**
 
 **[Here’s Why Founders Should Care about Happiness](http://firstround.com/review/Heres-Why-Founders-Should-Care-about-Happiness?utm_source=DomReactor+Weekly+Updates)** <span class="post-meta">(12 min read)</span>  
 "There’s a common assumption, that you will be happy when you are successful. But the reverse is actually true, and not just anecdotally. Hard neurological science supports the idea that happy people have more capacity to succeed. And beyond that, that happiness is not a genetic mandate, or a product of circumstance. It’s a choice." - Scott Crabtree
@@ -34,7 +34,7 @@ Instead of focusing on trying to sell more stuff to people who have plenty of th
 **[No, I do not subscribe to the Church of the Nonstop Hustle’s teachings](https://medium.com/@mg/no-i-do-not-subscribe-to-the-church-of-the-nonstop-hustle-s-teachings-792ef7a4e549?utm_source=DomReactor+Weekly+Updates)** <span class="post-meta">(2 min read)</span>  
 Evenings spent without work, a relaxing weekend (even if just one day), and time spent away from the office should be seen as a net gain for your brain and be encouraged.
 
-####**What we shipped this week**  
+#### **What we shipped this week**  
 
 **<u>Share a reaction and its reports (Improvement)</u>**  
 You can now share your reaction and its reports with anyone by sending them a link to the report. You can generate this link from the reports page. Anyone with this link will be able to view the report without logging into DomReactor. However they will only have read-only access to the reports and cannot make any changes.

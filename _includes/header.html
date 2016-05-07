@@ -4,25 +4,9 @@
   <div class="container">
     <nav class="public-nav row">
       <div class="navbar-header">
-        <button type="button" class="navbar-toggle nav-toggle-button" data-toggle="collapse" data-target="#main-nav-links">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
         <a href="/">
-          <img alt="Domr-logo-small" class="text-logo" src="{{site.url}}/assets/domr-logo-small.gif" title="{{ site.title }}">
+          <img alt="bimech-logo" class="text-logo" src="/assets/bimech_logo_new.png" title="{{ site.title }}">
         </a>
-      </div>
-      <div class="collapse navbar-collapse bs-navbar-collapse" id="main-nav-links">
-        <ul class="nav navbar-nav pull-right">
-          {% for nav_link in site.nav_links %}
-          {% if nav_link.title %}
-          <li><a class="public-nav-link" href="{{ nav_link.url }}">{{ nav_link.title }}</a></li>
-          {% endif %}
-          {% endfor %}
-          <li><a class="public-nav-link" href="https://domreactor.com/users/sign_in">LOG IN</a></li>
-        </ul>
       </div>
     </nav>
   </div>

@@ -11,7 +11,7 @@ Happy Monday!! Hope you all had an amazing weekend.
 Here is a quick update about some of the improvements we made to [DomReactor](https://domreactor.com) this past week. Also, here are some interesting articles to get your week started. I hope you enjoy them as much as we did.  
 
 
-####**What we are reading this week**
+#### **What we are reading this week**
 
 **[Put an end to feature creep](http://www.productstrategymeanssayingno.com/?utm_source=DomReactor+Weekly+Updates)** <span class="post-meta">(5 min read)</span>  
 This interactive post by the smart folks at [Intercom](https://intercom.io?utm_source=DomReactor+Weekly+Updates) talks about how to say to no to new features and instead work on improving your current application. 
@@ -34,7 +34,7 @@ Summarizing this would be a disservice to our readers.
 **[Cargo Culting](https://signalvnoise.com/posts/3947-cargo-culting?utm_source=DomReactor+Weekly+Updates)** <span class="post-meta">(5 min read)</span>  
 As we are designing something, are we just cargo culting an experience we take for granted somewhere else? Do we understand the actual job someone wants to do with the thing we are designing? Are we designing to be consistent with a pattern our users expect at the expense of figuring out how to help them kick more ass?
 
-####**What we shipped this week**  
+#### **What we shipped this week**  
 
 **<u>Show all tests on the dashboard (Improvement)</u>**  
 We made an assumption early on that people don't want to share the tests that they are running with other people in the organization. And boy were we wrong. So we fixed that. Now, on your dashboard, you can actually see all the tests that have been run by your team members.

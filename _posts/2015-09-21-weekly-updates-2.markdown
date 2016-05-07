@@ -11,7 +11,7 @@ Happy Monday!! Hope you all had an amazing weekend.
 Here is a quick update about some of the improvements we made to [DomReactor](https://domreactor.com) this past week. Also, here are some interesting articles to get your week started. I hope you enjoy them as much as we did.  
 
 
-####**What we are reading this week**
+#### **What we are reading this week**
 
 **[The Right Way to Ship Software](http://firstround.com/review/the-right-way-to-ship-software/)** <span class="post-meta">(9 min read)</span>  
 In a profession where we carry out decade-spanning holy wars over tab widths and capitalization, it’s no surprise that people get attached to their development and release habits. But if shipping so much software has taught me one thing, it’s to be an agnostic. Different methodologies optimize for different goals, and all of them have downsides.
@@ -34,7 +34,7 @@ Slack acts like your wise-cracking robot sidekick, instead of the boring enterpr
 **[Disruption is better when it's other people’s jobs](https://signalvnoise.com/posts/3944-disruption-is-better-when-its-other-peoples-jobs)** <span class="post-meta">(5 min read)</span>  
 The sooner you stop fighting the present, the sooner you can get to work on figuring out the future.
 
-####**What we shipped this week**  
+#### **What we shipped this week**  
 
 **<u>Improve the URL Validation (Improvement)</u>**  
 We can now work with web URLs with special HTTP Headers or self signed SSL certificates.

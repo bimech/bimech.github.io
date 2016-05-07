@@ -1,1 +1,1 @@
-# domreactor-blog
+# bimech-blog

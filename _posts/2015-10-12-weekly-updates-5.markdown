@@ -11,7 +11,7 @@ Happy Monday!! Hope you all had an amazing weekend.
 Here is a quick update about some of the improvements we made to [DomReactor](https://domreactor.com) this past week. Also, here are some interesting articles to get your week started. I hope you enjoy them as much as we did.  
 
 
-####**What we are reading this week**
+#### **What we are reading this week**
 
 **[The Internet of Things. And Testing.](http://blog.domreactor.com/ideas/2015/10/06/iot-and-testing.html?utm_source=DomReactor+Weekly+Updates)** <span class="post-meta">(4 min read)</span>  
 Andrew Antal, our CEO, wrote a candid post about "Internet of things" and testing in general. As more devices are connected and new platforms are brought on, handling the consistency of that experience will be a pretty big problem. DomReactor might be a great first step to that.
@@ -34,7 +34,7 @@ When you step into unknown territory, the paralysis is a natural thing to happen
 **[An employee handbook built for inclusion ](https://github.com/clef/handbook?utm_source=DomReactor+Weekly+Updates)** <span class="post-meta"></span>  
 Clef just open sourced their entire company handbook. The document includes Benefits and Perks, Employment Policies, Onboarding Documents, Hiring Documents and pretty much everything you need to run a company. Kudos to them for being so transparent.  
 
-####**What we shipped this week**  
+#### **What we shipped this week**  
 
 **<u>Fix reactions that have no associated report (Bug)</u>**  
 We found an issue around reactions that were either still running or didn't have an associated report. If such a test existed, the dashboard page was not loading and threw an error. That has been fixed now and dashboard will load irrespective of the status of the the reactions on the page.

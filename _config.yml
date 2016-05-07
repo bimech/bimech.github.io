@@ -1,17 +1,10 @@
 # Site settings
-title: DomReactor Blog
-email: support@domreactor.com
-description: Here we talk about our journey of building DomReactor along with some infrequent product updates.
+title: BiMech Blog
+email: frank@binarymechanics.com
+description: Thoughts on building and testing software.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.domreactor.com" # the base hostname & protocol for your site
-twitter_username: domreactor
+url: "http://binarymechanics.com" # the base hostname & protocol for your site
+twitter_username: binarymechanics
 
 # Build settings
 markdown: kramdown
-nav_links:
-  - title: 'HOME'
-    url: 'https://domreactor.com/'
-  - title: 'FEATURES'
-    url: 'https://domreactor.com/#features'
-  - title: 'PRICING'
-    url: 'https://domreactor.com/pricing'
