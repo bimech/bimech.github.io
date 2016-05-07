@@ -1,35 +1,20 @@
 <!DOCTYPE html>
 <html>
 
-{% include head.html %}
+  {% include head.html %}
 
-<body>
+  <body>
 
-  <div class="shutdown-content">
-    <div class="container">
-      <div class="text-center">
-        <a href="/">
-          <img alt="Domr-logo-small" class="text-logo" src="{{site.url}}/assets/domr-logo-small.gif" title="{{ site.title }}">
-        </a>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="container">
+        {{ content }}
       </div>
-      <h1 class="text-center">DomReactor has shut down.</h1>
-      <p>The time has come to power down the reactor. We built DomReactor with the ambitious goal of reliably detecting
-        visual differences across browsers, and we worked hard towards that goal up until the end. Visual consistency
-        testing remains a difficult problem to solve, but we are proud of the progress we made and the knowledge we
-        have accumulated along the way.
-      </p>
-      <p>
-        Binary Mechanics, the team behind DomReactor, will continue working together to make it easier to test software,
-        and we look forward to tackling the problem of visual consistency testing from new angles. We would like to thank
-        everyone for using our software, and we look forward to showing you something new in the future.
-      </p>
-      <p>
-        Cheers,<br>
-
-        Team BiMech
-      </p>
     </div>
-  </div>
-</body>
+
+    {% include footer.html %}
+
+  </body>
 
 </html>
